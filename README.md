@@ -42,3 +42,4 @@ They can also solve everyday problems, reduce mental workload, and make personal
 This project is part of my journey into AI and Automation.
 
 I’m learning by building, experimenting, and solving real problems.
+<img width="439" height="378" alt="A7F083A3-493A-4B0C-8A62-1DC09A7A2B66" src="https://github.com/user-attachments/assets/a6805516-c5e9-4c4e-af87-5a6e518d309b" />
