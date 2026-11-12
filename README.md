@@ -61,5 +61,21 @@ This screenshot provides evidence of the reminder configuration for the schedule
 Conclusion
 
 This project demonstrates how AI-assisted workflows and everyday productivity tools can help simplify personal tasks, improve organisation, and reduce the mental burden of remembering multiple commitments.
-Learning AI and Automation is not just about building solutions for businesses. It is also about finding practical ways to improve everyday life.
+
+
+
+Skills Demonstrated
+
+Through this project, I gained practical experience in:
+
+* AI-assisted workflow creation.
+* Google Calendar event management.
+* Calendar reminder configuration.
+* Personal productivity automation.
+* Workflow planning and organisation.
+* Applying AI to solve everyday problems.
+
+Project Status
+
+Completed – November 2026.
 
