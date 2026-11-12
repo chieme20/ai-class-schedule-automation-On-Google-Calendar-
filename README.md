@@ -43,3 +43,23 @@ This project is part of my journey into AI and Automation.
 
 I’m learning by building, experimenting, and solving real problems.
 <img width="439" height="378" alt="A7F083A3-493A-4B0C-8A62-1DC09A7A2B66" src="https://github.com/user-attachments/assets/a6805516-c5e9-4c4e-af87-5a6e518d309b" />
+
+
+Project Evidence
+
+1. Google Calendar – Scheduled Classes
+
+The following screenshot shows the upcoming AI and Automation classes organised in Google Calendar.
+<img width="1284" height="2694" alt="IMG_1806" src="https://github.com/user-attachments/assets/e202cffd-fbd4-4980-a3db-a0189467e69a" />
+<img width="1284" height="2253" alt="IMG_1807" src="https://github.com/user-attachments/assets/3dedb340-099b-429e-8f21-0e7323e87a67" />
+
+
+2. Automated Class Reminders
+
+This screenshot provides evidence of the reminder configuration for the scheduled classes.
+
+Conclusion
+
+This project demonstrates how AI-assisted workflows and everyday productivity tools can help simplify personal tasks, improve organisation, and reduce the mental burden of remembering multiple commitments.
+Learning AI and Automation is not just about building solutions for businesses. It is also about finding practical ways to improve everyday life.
+
